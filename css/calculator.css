@@ -1,0 +1,38 @@
+.calc{
+    width: 450px;
+}
+.button{
+    width: 100%;
+    background-color:#fffdd0;
+    border-color:#fffdd0;
+    color: goldenrod;
+    font-size: large;
+    font-weight: bold;
+}
+.nbutton{
+    width: 100%;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+}
+.equals{
+    width: 100%;
+    background-color:gold;
+    border-color:gold;
+    color: goldenrod;
+    font-size: large;
+    font-weight: bold;
+}
+.input{
+    font-size: 40px;
+}
+#history{
+    height: 180px;
+    width:100%;
+    overflow-y: scroll;
+}
+ul{
+    list-style: none;
+}

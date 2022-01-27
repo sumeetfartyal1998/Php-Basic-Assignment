@@ -1,0 +1,27 @@
+.bgimage{
+    background-image: url("../Media/oneplus9/nordce-l.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+}
+form{
+    width: 450px;
+    background-color: #cccccc;
+    opacity: 0.9;
+    border-radius: 5px;
+}
+.label{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #807667;
+}
+.info{
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    padding: 5px;
+    border: 0;
+}
+button{
+    width: 100%;
+}
